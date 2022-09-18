@@ -1,6 +1,6 @@
 import string
 
-valid1 = string.ascii_letters + string.digits + '@' + '.' + '_'
+valid2 = string.ascii_letters + string.digits + '@' + '.' + '_'
 
 
 def ver(x):
